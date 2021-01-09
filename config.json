@@ -1,0 +1,27 @@
+{
+    "keys": {
+        "maps": "8wu76m5Vz1eYGpkF224C5nA1klafosCJ",
+        "routing": "8wu76m5Vz1eYGpkF224C5nA1klafosCJ",
+        "search": "8wu76m5Vz1eYGpkF224C5nA1klafosCJ",
+        "trafficIncidents": "8wu76m5Vz1eYGpkF224C5nA1klafosCJ",
+        "trafficFlow": "8wu76m5Vz1eYGpkF224C5nA1klafosCJ",
+        "extendedSearch": "8wu76m5Vz1eYGpkF224C5nA1klafosCJ"
+    },
+    "cdn": {
+        "web-sdk-maps": "https://api.tomtom.com/maps-sdk-for-web/cdn/6.x/6.1.2-public-preview.24/maps",
+        "web-sdk-services": "https://api.tomtom.com/maps-sdk-for-web/cdn/6.x/6.1.2-public-preview.24/services",
+        "web-sdk-plugin-searchbox": "https://api.tomtom.com/maps-sdk-for-web/cdn/plugins/SearchBox/3.1.6-public-preview.3/",
+        "web-sdk-plugin-pancontrols": "https://api.tomtom.com/maps-sdk-for-web/cdn/plugins/PanControls/2.1.2-public-preview.4/",
+        "web-sdk-plugin-zoomcontrols": "https://api.tomtom.com/maps-sdk-for-web/cdn/plugins/ZoomControls/2.1.2-public-preview.4/",
+        "web-sdk-plugin-drawingtools": "https://api.tomtom.com/maps-sdk-for-web/cdn/plugins/DrawingTools/undefined/",
+        "web-sdk-plugin-minimap": "https://api.tomtom.com/maps-sdk-for-web/cdn/plugins/Minimap/2.1.2-public-preview.4/"
+    },
+    "styles": {
+        "custom.incidents.markers.style": "${publicUrl}/pages/examples/assets/style/custom_incidents_style.json",
+        "custom.incidents.markers.sprite": "${publicUrl}/pages/examples/assets/style/custom_incidents_sprite"
+    },
+    "productInfo": {
+        "name": "<your product name>",
+        "version": "<your product version>"
+    }
+}
